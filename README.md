@@ -1,8 +1,8 @@
 ![](./readmeImg/banner.png)
 
-# Shaif's Cuisine 👨‍🍳
+# Chef's Cuisine 👨‍🍳
 
-**Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
+**Live preview: [click me](http://Chefs-s-cuisine.netlify.app)**
 
 **Watch on YouTube: ![YouTube Video Views](https://img.shields.io/youtube/views/4y-_3Ayiauw) [https://youtu.be/4y-_3Ayiauw](https://youtu.be/4y-_3Ayiauw)**
 
